@@ -9,12 +9,12 @@
             margin-right: 15px;
         }
 
-        a {
+        link {
             text-decoration: none;
             color: #333;
             font-weight: bold;
         }
 
-        a:hover {
+        link:hover {
             color: #911480; 
         }
